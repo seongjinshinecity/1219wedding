@@ -1,0 +1,5 @@
+.vercel
+.env*
+.netlify
+.DS_Store
+._*

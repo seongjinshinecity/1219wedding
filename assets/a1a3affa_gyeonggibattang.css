@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'GyeonggiBattang';
+	src: url('e4ced4f5_GyeonggiBatangR.eot');
+	src: url('64c05b34_GyeonggiBatangR.eot') format('embedded-opentype'),
+	url('66dea353_GyeonggiBatangR.woff2') format('woff2'),
+	url('7f94bca0_GyeonggiBatangR.woff') format('woff'),
+	url('3caf5cc1_GyeonggiBattangRegular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'GyeonggiBattang';
+	src: url('6c2db2a0_GyeonggiBatangB.eot');
+	src: url('e4aef93a_GyeonggiBatangB.eot') format('embedded-opentype'),
+	url('73e93ca8_GyeonggiBatangB.woff2') format('woff2'),
+	url('a43f1ddb_GyeonggiBatangB.woff') format('woff'),
+	url('dfbff368_GyeonggiBattangBold.ttf') format('truetype');
+	font-weight: 700;
+	font-style: normal;
+	font-display: swap;
+}

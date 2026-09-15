@@ -1,0 +1,84 @@
+@font-face {
+	font-family: 'Manrope';
+	src: url('aa755c6f_Manrope-ExtraBold.eot');
+	src: url('6e6530f8_Manrope-ExtraBold.eot') format('embedded-opentype'),
+	url('686e3b8f_Manrope-ExtraBold.woff2') format('woff2'),
+	url('9826624b_Manrope-ExtraBold.woff') format('woff'),
+	url('b32a98bf_Manrope-ExtraBold.ttf') format('truetype');
+	font-weight: 800;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Manrope';
+	src: url('75140f0f_Manrope-Regular.eot');
+	src: url('6ab97a1b_Manrope-Regular.eot') format('embedded-opentype'),
+	url('edb2ffbd_Manrope-Regular.woff2') format('woff2'),
+	url('43cc9d15_Manrope-Regular.woff') format('woff'),
+	url('cf3ad8ba_Manrope-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Manrope';
+	src: url('0f9212df_Manrope-SemiBold.eot');
+	src: url('e589e0c8_Manrope-SemiBold.eot') format('embedded-opentype'),
+	url('443cdf58_Manrope-SemiBold.woff2') format('woff2'),
+	url('6a933794_Manrope-SemiBold.woff') format('woff'),
+	url('65d2afe6_Manrope-SemiBold.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Manrope';
+	src: url('8ac981a6_Manrope-ExtraLight.eot');
+	src: url('6b255e89_Manrope-ExtraLight.eot') format('embedded-opentype'),
+	url('0656bdfc_Manrope-ExtraLight.woff2') format('woff2'),
+	url('eda77f29_Manrope-ExtraLight.woff') format('woff'),
+	url('c51a66b7_Manrope-ExtraLight.ttf') format('truetype');
+	font-weight: 200;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Manrope';
+	src: url('fc4f778d_Manrope-Light.eot');
+	src: url('302ee6f3_Manrope-Light.eot') format('embedded-opentype'),
+	url('2318d096_Manrope-Light.woff2') format('woff2'),
+	url('18a9459a_Manrope-Light.woff') format('woff'),
+	url('5b58a96c_Manrope-Light.ttf') format('truetype');
+	font-weight: 300;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Manrope';
+	src: url('a2a4308a_Manrope-Medium.eot');
+	src: url('0dad4925_Manrope-Medium.eot') format('embedded-opentype'),
+	url('a95ecb33_Manrope-Medium.woff2') format('woff2'),
+	url('3464f3bc_Manrope-Medium.woff') format('woff'),
+	url('37994abe_Manrope-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'Manrope';
+	src: url('8ed10ee1_Manrope-Bold.eot');
+	src: url('97c72b7a_Manrope-Bold.eot') format('embedded-opentype'),
+	url('6d6dbf10_Manrope-Bold.woff2') format('woff2'),
+	url('a267144c_Manrope-Bold.woff') format('woff'),
+	url('a7bfd5ae_Manrope-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
